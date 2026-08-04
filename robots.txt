@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fruitstop.co.za/sitemap.xml

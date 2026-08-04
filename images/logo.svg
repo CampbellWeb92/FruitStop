@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-labelledby="title desc">
+  <title id="title">Fruit Stop</title>
+  <desc id="desc">Fruit Stop wordmark with a red apple and green leaf.</desc>
+  <defs>
+    <linearGradient id="apple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f15b45"/>
+      <stop offset="1" stop-color="#c92f2f"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8bbf45"/>
+      <stop offset="1" stop-color="#2f7d32"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(8 7)">
+    <path d="M52 35c-19-13-39 2-39 30 0 25 21 43 39 43 7 0 12-4 18-4s11 4 18 4c18 0 39-18 39-43 0-28-20-43-39-30-6 4-12 6-18 6s-12-2-18-6Z" fill="url(#apple)"/>
+    <path d="M75 31c5-20 20-28 37-25-2 18-17 29-37 25Z" fill="url(#leaf)"/>
+    <path d="M70 39c-1-12 4-24 13-32" fill="none" stroke="#2b5f2d" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="42" cy="62" r="7" fill="#fff" opacity=".28"/>
+  </g>
+  <text x="150" y="78" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="900" letter-spacing="-3" fill="#174f32">FRUIT</text>
+  <text x="345" y="78" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="900" letter-spacing="-3" fill="#d33b32">STOP</text>
+  <text x="153" y="105" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4.4" fill="#66756c">FRESH • LOCAL • EVERYDAY</text>
+</svg>
